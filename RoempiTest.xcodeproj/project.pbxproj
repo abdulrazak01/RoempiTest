@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0D30BD83254FE9FE00B7CB47 /* testStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0D30BD82254FE9FE00B7CB47 /* testStoryboard.storyboard */; };
 		3D5EE182254FC37400227372 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D5EE181254FC37400227372 /* AppDelegate.swift */; };
 		3D5EE184254FC37400227372 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D5EE183254FC37400227372 /* SceneDelegate.swift */; };
 		3D5EE186254FC37400227372 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D5EE185254FC37400227372 /* ViewController.swift */; };
@@ -38,6 +39,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		0D30BD82254FE9FE00B7CB47 /* testStoryboard.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = testStoryboard.storyboard; sourceTree = "<group>"; };
 		3D5EE17E254FC37400227372 /* RoempiTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RoempiTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3D5EE181254FC37400227372 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3D5EE183254FC37400227372 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -108,6 +110,7 @@
 				3D5EE181254FC37400227372 /* AppDelegate.swift */,
 				3D5EE183254FC37400227372 /* SceneDelegate.swift */,
 				3D5EE185254FC37400227372 /* ViewController.swift */,
+				0D30BD82254FE9FE00B7CB47 /* testStoryboard.storyboard */,
 				3D5EE187254FC37400227372 /* Main.storyboard */,
 				3D5EE18D254FC37700227372 /* Assets.xcassets */,
 				3D5EE18F254FC37700227372 /* LaunchScreen.storyboard */,
@@ -240,6 +243,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0D30BD83254FE9FE00B7CB47 /* testStoryboard.storyboard in Resources */,
 				3D5EE191254FC37700227372 /* LaunchScreen.storyboard in Resources */,
 				3D5EE1C2254FC94D00227372 /* ItemCollectionViewCell.xib in Resources */,
 				3D5EE18E254FC37700227372 /* Assets.xcassets in Resources */,
