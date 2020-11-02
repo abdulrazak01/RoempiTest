@@ -86,7 +86,7 @@ extension ViewController: UICollectionViewDelegate, UICollectionViewDataSource{
     }
     
     func collectionView(_ collectionView: UICollectionView, didSelectItemAt indexPath: IndexPath) {
-        print("didselected: \(indexPath)")
+        print("didselected: \(Item.init(imageName: ""))")
     }
 }
 
