@@ -16,6 +16,8 @@
 		3D5EE191254FC37700227372 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3D5EE18F254FC37700227372 /* LaunchScreen.storyboard */; };
 		3D5EE19C254FC37700227372 /* RoempiTestTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D5EE19B254FC37700227372 /* RoempiTestTests.swift */; };
 		3D5EE1A7254FC37700227372 /* RoempiTestUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D5EE1A6254FC37700227372 /* RoempiTestUITests.swift */; };
+		3D5EE1C1254FC94D00227372 /* ItemCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D5EE1BF254FC94D00227372 /* ItemCollectionViewCell.swift */; };
+		3D5EE1C2254FC94D00227372 /* ItemCollectionViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3D5EE1C0254FC94D00227372 /* ItemCollectionViewCell.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +53,8 @@
 		3D5EE1A2254FC37700227372 /* RoempiTestUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = RoempiTestUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3D5EE1A6254FC37700227372 /* RoempiTestUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RoempiTestUITests.swift; sourceTree = "<group>"; };
 		3D5EE1A8254FC37700227372 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3D5EE1BF254FC94D00227372 /* ItemCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemCollectionViewCell.swift; sourceTree = "<group>"; };
+		3D5EE1C0254FC94D00227372 /* ItemCollectionViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = ItemCollectionViewCell.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +113,8 @@
 				3D5EE18F254FC37700227372 /* LaunchScreen.storyboard */,
 				3D5EE192254FC37700227372 /* Info.plist */,
 				3D5EE18A254FC37500227372 /* RoempiTest.xcdatamodeld */,
+				3D5EE1BF254FC94D00227372 /* ItemCollectionViewCell.swift */,
+				3D5EE1C0254FC94D00227372 /* ItemCollectionViewCell.xib */,
 			);
 			path = RoempiTest;
 			sourceTree = "<group>";
@@ -235,6 +241,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3D5EE191254FC37700227372 /* LaunchScreen.storyboard in Resources */,
+				3D5EE1C2254FC94D00227372 /* ItemCollectionViewCell.xib in Resources */,
 				3D5EE18E254FC37700227372 /* Assets.xcassets in Resources */,
 				3D5EE189254FC37400227372 /* Main.storyboard in Resources */,
 			);
@@ -261,6 +268,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3D5EE1C1254FC94D00227372 /* ItemCollectionViewCell.swift in Sources */,
 				3D5EE186254FC37400227372 /* ViewController.swift in Sources */,
 				3D5EE182254FC37400227372 /* AppDelegate.swift in Sources */,
 				3D5EE184254FC37400227372 /* SceneDelegate.swift in Sources */,
